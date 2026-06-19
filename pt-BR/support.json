@@ -1,0 +1,14 @@
+{
+  "pageTitle": "Suporte | {brandName}",
+  "heading": "Suporte",
+  "faqButton": "Perguntas frequentes",
+  "formHeading": "Como podemos ajudar?",
+  "formDescription": "Envie sua dúvida e retornaremos o mais breve possível.",
+  "formReachUs": "Você também pode entrar em contato pelo e-mail <link>{email}</link>",
+  "emailPlaceholder": "Seu endereço de e-mail",
+  "messagePlaceholder": "Digite sua dúvida aqui...",
+  "sendButton": "Enviar",
+  "sendSuccess": "Dúvida enviada com sucesso. Retornaremos em breve.",
+  "sendError": "Falha ao enviar a dúvida. Tente novamente mais tarde.",
+  "queryLabel": "Sua dúvida"
+}

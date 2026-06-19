@@ -1,0 +1,15 @@
+{
+  "uploadFromDevice": "Enviar do dispositivo",
+  "uploadFromComputer": "Enviar do computador",
+  "uploadFromSharepoint": "Enviar do SharePoint",
+  "uploadFromOneDrive": "Enviar do OneDrive",
+  "uploadFromGoogleDrive": "Enviar do Google Drive",
+  "sharepoint": "SharePoint",
+  "oneDrive": "OneDrive",
+  "googleDrive": "Google Drive",
+  "googleDriveLoadError": "Não foi possível carregar o Google Drive",
+  "altDeviceUpload": "Enviar do dispositivo",
+  "altSharepoint": "SharePoint",
+  "altOneDrive": "OneDrive",
+  "altGoogleDrive": "Google Drive"
+}
