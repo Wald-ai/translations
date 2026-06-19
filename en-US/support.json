@@ -1,0 +1,14 @@
+{
+  "pageTitle": "Support | {brandName}",
+  "heading": "Support",
+  "faqButton": "Frequently Asked Questions",
+  "formHeading": "How can we help you?",
+  "formDescription": "Send us your query and we will get back to you as soon as possible.",
+  "formReachUs": "You can also reach us at <link>{email}</link>",
+  "emailPlaceholder": "Your Email address",
+  "messagePlaceholder": "Type your query here...",
+  "sendButton": "Send",
+  "sendSuccess": "Query sent successfully. We will get back to you soon.",
+  "sendError": "Failed to send query. Please try again later.",
+  "queryLabel": "Your query"
+}

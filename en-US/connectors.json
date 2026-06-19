@@ -1,0 +1,15 @@
+{
+  "uploadFromDevice": "Upload from Device",
+  "uploadFromComputer": "Upload from Computer",
+  "uploadFromSharepoint": "Upload from Sharepoint",
+  "uploadFromOneDrive": "Upload from OneDrive",
+  "uploadFromGoogleDrive": "Upload from Google Drive",
+  "sharepoint": "Sharepoint",
+  "oneDrive": "OneDrive",
+  "googleDrive": "Google Drive",
+  "googleDriveLoadError": "Unable to load google drive",
+  "altDeviceUpload": "Device Upload",
+  "altSharepoint": "Sharepoint",
+  "altOneDrive": "OneDrive",
+  "altGoogleDrive": "Google Drive"
+}
