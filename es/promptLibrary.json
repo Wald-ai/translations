@@ -1,0 +1,23 @@
+{
+  "pageTitle": "Biblioteca de prompts",
+  "structuredDataDescription": "Descubra cómo Wald.ai está revolucionando la tecnología de inteligencia artificial para brindar a las empresas soluciones conversacionales seguras, escalables y personalizables.",
+  "heading": "Biblioteca de prompts inteligentes de Wald",
+  "subtitle": "Descubra prompts que desbloquean formas más eficaces de usar Wald",
+  "searchPlaceholder": "Buscar prompts...",
+  "noPromptsFound": "No se encontraron prompts",
+  "backToAllPrompts": "Volver a todos los prompts",
+  "customizePrompt": "Personalice su prompt",
+  "enterFieldPlaceholder": "Introduzca {label}",
+  "promptPreview": "Vista previa rápida",
+  "pastePromptOnWald": "Pegar prompt en Wald",
+  "relatedPrompts": "Otros prompts relacionados",
+  "deptAll": "Todos los departamentos",
+  "deptMarketing": "Marketing",
+  "deptSales": "Ventas",
+  "deptCustomerService": "Servicio al cliente",
+  "deptProduct": "Producto",
+  "deptEngineering": "Ingeniería",
+  "deptHR": "Recursos Humanos",
+  "deptExecutive": "Ejecutivo",
+  "deptManager": "Gerente"
+}

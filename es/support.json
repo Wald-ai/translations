@@ -1,0 +1,14 @@
+{
+  "pageTitle": "Soporte | {brandName}",
+  "heading": "Soporte",
+  "faqButton": "Preguntas frecuentes",
+  "formHeading": "¿Cómo podemos ayudarle?",
+  "formDescription": "Envíenos su consulta y nos comunicaremos con usted lo antes posible.",
+  "formReachUs": "También puede comunicarse con nosotros en <link>{email}</link>",
+  "emailPlaceholder": "Su dirección de correo electrónico",
+  "messagePlaceholder": "Escriba su consulta aquí...",
+  "sendButton": "Enviar",
+  "sendSuccess": "Consulta enviada exitosamente. Nos comunicaremos con usted pronto.",
+  "sendError": "No se pudo enviar la consulta. Inténtelo de nuevo más tarde.",
+  "queryLabel": "Su consulta"
+}
