@@ -1,6 +1,6 @@
 {
-  "uploadFromDevice": "Cargar desde el dispositivo",
-  "uploadFromComputer": "Cargar desde la computadora",
+  "uploadFromDevice": "Subir desde el dispositivo",
+  "uploadFromComputer": "Subir desde la computadora",
   "uploadFromSharepoint": "Subir desde SharePoint",
   "uploadFromOneDrive": "Subir desde OneDrive",
   "uploadFromGoogleDrive": "Subir desde Google Drive",
